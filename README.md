@@ -1,2 +1,4 @@
 # -Portable-ECG-Monitoring-System
-ECG Monitoring System
+The Portable ECG Monitoring System project focuses on creating a portable device that uses microcontroller technology to monitor heart activity. An ECG (electrocardiogram) is a medical test that measures the heart's electrical signals. In this project, electrodes are used to capture these signals, which are then displayed as an ECG graph.
+
+Microcontroller-based ECG devices are designed to process, store, and even transmit heart data, making them convenient and easy to use. These devices offer mobility and comfort to users and feature user-friendly interfaces, making it easier for individuals to understand their heart health. Additionally, many of these devices support remote monitoring and data sharing, allowing healthcare professionals and caregivers to access real-time data.
